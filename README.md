@@ -14,3 +14,7 @@ Edit File: conn.php (Database and Root)
 This is practical, so the codes have security flaws and sql injection can be done, which I do not know if I will correct them, but I will try to patch and improve this project, even if it is practical.
 
 sorry for my english :')
+
+
+Project created based on Step by step tutorials:
+Channel -> https://www.youtube.com/channel/UCYSd3dDrcafIwGppPbSkq8w
