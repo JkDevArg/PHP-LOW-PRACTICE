@@ -1,7 +1,7 @@
 # PHP-LOW-PRACTICE 
 
-* Using Library Bootstrap 5.1
-* PHP.
+* Bootstrap 5.1
+* PHP 7.4+
 
 Demonstration of the easy use of php and boostrap to do something simple and basic
 
